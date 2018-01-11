@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo test</title>
+  <title>我的博客</title>
   
-  <subtitle>测试</subtitle>
+  <subtitle>又一个GoodHexo小站</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="ellesia.github.io/"/>
   <updated>2018-01-11T14:15:22.506Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>ellesia.github.io/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>http://sobaigu.com</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2018/01/11/hello-world-1/"/>
-    <id>http://yoursite.com/2018/01/11/hello-world-1/</id>
+    <link href="ellesia.github.io/hello-world-1.html"/>
+    <id>ellesia.github.io/hello-world-1.html</id>
     <published>2018-01-11T14:15:22.506Z</published>
     <updated>2018-01-11T14:15:22.506Z</updated>
     
@@ -39,8 +39,8 @@
   
   <entry>
     <title>ellecelia</title>
-    <link href="http://yoursite.com/2018/01/11/2018-01-ellecelia/"/>
-    <id>http://yoursite.com/2018/01/11/2018-01-ellecelia/</id>
+    <link href="ellesia.github.io/ellecelia.html"/>
+    <id>ellesia.github.io/ellecelia.html</id>
     <published>2018-01-11T08:43:40.000Z</published>
     <updated>2018-01-11T08:43:40.000Z</updated>
     
@@ -53,8 +53,8 @@
   
   <entry>
     <title>Hexo，从此开始...</title>
-    <link href="http://yoursite.com/2017/09/05/hello-world/"/>
-    <id>http://yoursite.com/2017/09/05/hello-world/</id>
+    <link href="ellesia.github.io/hello-world.html"/>
+    <id>ellesia.github.io/hello-world.html</id>
     <published>2017-09-05T07:15:40.000Z</published>
     <updated>2017-10-26T07:15:40.000Z</updated>
     
@@ -67,14 +67,14 @@
     
     </summary>
     
-      <category term="做网站" scheme="http://yoursite.com/categories/%E5%81%9A%E7%BD%91%E7%AB%99/"/>
+      <category term="做网站" scheme="ellesia.github.io/categories/%E5%81%9A%E7%BD%91%E7%AB%99/"/>
     
     
-      <category term="Hexo" scheme="http://yoursite.com/tags/Hexo/"/>
+      <category term="Hexo" scheme="ellesia.github.io/tags/Hexo/"/>
     
-      <category term="GoodHexo" scheme="http://yoursite.com/tags/GoodHexo/"/>
+      <category term="GoodHexo" scheme="ellesia.github.io/tags/GoodHexo/"/>
     
-      <category term="博客建站" scheme="http://yoursite.com/tags/%E5%8D%9A%E5%AE%A2%E5%BB%BA%E7%AB%99/"/>
+      <category term="博客建站" scheme="ellesia.github.io/tags/%E5%8D%9A%E5%AE%A2%E5%BB%BA%E7%AB%99/"/>
     
   </entry>
   
