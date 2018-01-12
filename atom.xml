@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="ellesia.github.io/"/>
-  <updated>2018-01-12T10:15:26.038Z</updated>
+  <updated>2018-01-12T13:14:19.444Z</updated>
   <id>ellesia.github.io/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Translation of A poem</title>
+    <link href="ellesia.github.io/work.html"/>
+    <id>ellesia.github.io/work.html</id>
+    <published>2018-01-12T13:13:33.853Z</published>
+    <updated>2018-01-12T13:14:19.444Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="春江潮水连海平，海上明月共潮生。"><a href="#春江潮水连海平，海上明月共潮生。" class="headerlink" title="春江潮水连海平，海上明月共潮生。"></a>春江潮水连海平，海上明月共潮生。</h1><blockquote><p>滟滟随波千万里，何处春江无月明！<br>江流宛转绕芳甸，月照花林皆似霰；<br>空里流霜不觉飞，汀上白沙看不见。<br>江天一色无纤尘，皎皎空中孤月轮。</p></blockquote>]]></content>
+    
+    <summary type="html">
+    
+      春江潮水连海平，海上明月共潮生。
+    
+    </summary>
+    
+      <category term="诗词" scheme="ellesia.github.io/categories/%E8%AF%97%E8%AF%8D/"/>
+    
+    
+      <category term="张若虚" scheme="ellesia.github.io/tags/%E5%BC%A0%E8%8B%A5%E8%99%9A/"/>
+    
+  </entry>
   
   <entry>
     <title>Translation of A poem</title>
