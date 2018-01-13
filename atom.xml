@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="ellesia.github.io/"/>
-  <updated>2018-01-13T13:21:48.057Z</updated>
+  <updated>2018-01-13T13:45:44.646Z</updated>
   <id>ellesia.github.io/</id>
   
   <author>
@@ -17,11 +17,31 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>日记一则</title>
+    <link href="ellesia.github.io/daily20180113.html"/>
+    <id>ellesia.github.io/daily20180113.html</id>
+    <published>2018-01-13T13:37:22.720Z</published>
+    <updated>2018-01-13T13:45:44.646Z</updated>
+    
+    <content type="html"><![CDATA[<p>2017年，注定是我人生里开花结果的一年。<br>这一年，我结婚了。<br>这一年，我有了一个小宝宝。</p><p>那些以前觉得遥远的事情，突然间就变成了真真实实的现在，来得让人猝不及防。<br>好久没有这么静下心来写点文字了。</p>]]></content>
+    
+    <summary type="html">
+    
+      2017年，注定是我人生里开花结果的一年。 这一年，我结婚了。 这一年，我有了一个小宝宝。。
+    
+    </summary>
+    
+    
+      <category term="日记" scheme="ellesia.github.io/tags/%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
     <title>翻译瑞士官方文件的笔记</title>
     <link href="ellesia.github.io/january-mind.html"/>
     <id>ellesia.github.io/january-mind.html</id>
     <published>2018-01-13T13:00:46.665Z</published>
-    <updated>2018-01-13T13:21:48.057Z</updated>
+    <updated>2018-01-13T13:45:33.579Z</updated>
     
     <content type="html"><![CDATA[<p>前些天做了几份瑞士法语区的文件翻译，其中有值得注意的地方，笔记如下：<br>``CHANCELLERY一词在此类文件中十分常见，常常有：<br>CANTON OF BERNE CHANCELLERY OF STATE<br>也就是Chancellerie<br>chanceller<br>chancellery</p>]]></content>
     
