@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="ellesia.github.io/"/>
-  <updated>2018-02-07T11:50:29.161Z</updated>
+  <updated>2018-02-07T16:18:10.629Z</updated>
   <id>ellesia.github.io/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>booklist</title>
+    <link href="ellesia.github.io/booklist-1.html"/>
+    <id>ellesia.github.io/booklist-1.html</id>
+    <published>2018-02-07T16:17:53.000Z</published>
+    <updated>2018-02-07T16:18:10.629Z</updated>
+    
+    <content type="html"><![CDATA[<p>This is another test</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;This is another test&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>汽车展会中英翻译（笔记）</title>
